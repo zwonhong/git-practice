@@ -1,0 +1,8 @@
+university
+class
+home
+new
+lecture
+exam
+lab
+
